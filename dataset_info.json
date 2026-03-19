@@ -740,7 +740,7 @@
     "folder": "python"
   },
   "priestess": {
-  "file_name": "priestess_sharegpt.jsonl",
+  "file_name": "priestess_5000_sharegpt.jsonl",
   "formatting": "sharegpt",
   "columns": {
     "messages": "conversations"
